@@ -4,4 +4,4 @@ Cadastro Feito todo em React
 # Abra outro Terminal
 2: Cd crud | Cd frontend | npm start | Com isso vai rodar o frontend perfeitamente 
 # Exemplo
- Bom funciona com o frontEnd recebendo os dados do email e nome, Recebendo os dados ele joga pro db.json.
+ Bom funciona com o frontEnd recebendo os dados do email e nome, Com isso ele joga os dados pro backend, salvando tudo no db.json.
