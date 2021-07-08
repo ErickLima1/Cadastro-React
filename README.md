@@ -1,5 +1,5 @@
 # Cadastro-React
-Cadastri Feito todo em React
+Cadastro Feito todo em React
 1: Cd crud | Cd backEnd | npm start | Pra rodar  o db.json
 # Abra outro Terminal
 2: Cd crud | Cd frontend | npm start | Com isso vai rodar o frontend perfeitamente 
